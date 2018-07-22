@@ -1,7 +1,7 @@
 # Selenium for persons
 <br>Get all persons\` name with it\` s URL of personal page
 ## Personal document
-<br>Using movies` name from folders to collect related persons\` name with speific URL, and then store them into mongodb
+<br>Using movies\` name from folders to collect related persons\` name with speific URL, and then store them into mongodb
 <br>
 ## Main codes
 * info.py <br>
@@ -35,12 +35,9 @@ Get movies` name from folders and then crwal related information by selenium
 * Get it\`s movie name from the folder first, and then enter person\`s page.
 
 ### Each item
-<br>Actor<br>
-<br>
-<br>Director<br>
-<br>
-<br>Members<br>
-<br>
+<br>Actor
+<br>Director
+<br>Members
 
 
 ### Save as json file
