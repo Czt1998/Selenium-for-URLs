@@ -4,9 +4,9 @@
 <br>Using movies\` name from folders to collect related persons\` name with speific URL, and then store them into mongodb
 <br>
 ## Main codes
-* info.py <br>
+* info_get.py <br>
 Get movies` name from folders and then crwal related information by selenium
-* mondoss.py
+* mongo_connect.py
 	<br>  Store all the information
 
 
