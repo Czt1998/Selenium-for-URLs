@@ -40,10 +40,11 @@ Get movies` name from folders and then crwal related information by selenium
 <br>
 ![](https://github.com/G1704/Test/blob/master/Item.png "Actor & Director")
 <br>Members
+<br>
 ![](https://github.com/G1704/Test/blob/master/Item2.png "Members")
 
 
 ### Save as json file
 Page [‘演员’] = ele1
 <br>Page [‘导演’] = elem2
-<br>Page [‘其他’] = elem3
+<br>Page [membername] = elem3
