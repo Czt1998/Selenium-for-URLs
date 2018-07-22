@@ -5,7 +5,7 @@ import re
 from selenium import webdriver
 from time import sleep
 from pyquery import PyQuery as pq
-from mondoss import *
+from mongo_connect import *
 
 def creater():
     # 创建文件夹并开始爬去
