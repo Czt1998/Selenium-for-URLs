@@ -35,11 +35,11 @@ Get movies` name from folders and then crwal related information by selenium
 * Get it\`s movie name from the folder first, and then enter person\`s page.
 
 ### Each item
-<br>Actor
-<br>Director
+* Actor
+* Director
 <br>
 ![](https://github.com/G1704/Test/blob/master/Item.png "Actor & Director")
-<br>Members
+* Members
 <br>
 ![](https://github.com/G1704/Test/blob/master/Item2.png "Members")
 
