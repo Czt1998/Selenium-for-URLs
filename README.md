@@ -35,9 +35,7 @@ Get movies` name from folders and then crwal related information by selenium
 * Get it\`s movie name from the folder first, and then enter person\`s page.
 
 ### Each item
-Actor
-Director
-Members
+Actor	Director	Members
 <br>
 ![](https://github.com/G1704/Test/blob/master/Item.png "Actor & Director")
 <br>
