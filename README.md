@@ -36,10 +36,9 @@ Get movies` name from folders and then crwal related information by selenium
 
 ### Each item
 
+![](https://github.com/G1704/Test/blob/master/Item.png "Actor & Director"<br>
 <br>
-![](https://github.com/G1704/Test/blob/master/Item.png "Actor & Director")
-<br>
-![](https://github.com/G1704/Test/blob/master/Item2.png "Members")
+![](https://github.com/G1704/Test/blob/master/Item2.png "Members")<br>
 
 
 ### Save as json file
